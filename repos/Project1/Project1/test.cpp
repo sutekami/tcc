@@ -386,8 +386,20 @@ void create3dConnection(Cycle3d *cycle) {
             };
             createLineForConnection(start_node, middle_node, cycle->bottom_left, gl_line_strip);
         }
-        // cycle->bottom_right.node_x + 1 == kの場合を書いて終わり
-        // レポートに入る
+    }
+    else if(cycle->bottom_right.node_x + 1 == k) {
+        Node end_node = { cycle->bottom_left.x + a, cycle->bottom_left.y, cycle->bottom_right.z };
+        Node middle_node = {
+            (cycle->bottom_right.x + end_node.x) / 2.0,
+            cycle->right.y,
+            cycle->bottom_right.z
+        };
+        createLineForConnection(cycle->bottom_right, middle_node, end_node, gl_line_strip);
+
+        Node start_node = { cycle->bottom_right_cycle->bottom_right.x - a, cycle->bottom_right.y, cycle->bottom_right.z };
+        middle_node.x = (start_node.x + cycle->bottom_right.x + a) / 2.0;
+        middle_node.y = cycle->bottom_left.y - 1.0;
+        createLineForConnection(start_node, middle_node, end_node, gl_lines);
     }
 }
 
