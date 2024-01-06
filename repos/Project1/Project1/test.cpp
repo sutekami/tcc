@@ -8,7 +8,7 @@
 const int MAX_LENGTH = 100;
 
 int WindowWidth = 1024;    
-int WindowHeight = 1024;    
+int WindowHeight = 900;    
 int k, n;  
 float moveX = -2.5, moveY = -1.8, moveZ = -3.0;
 int xRotation = 0, yRotation = 0;
@@ -57,7 +57,6 @@ typedef enum {
     gl_line_strip,
 }Type;
 
-Node node[MAX_LENGTH][MAX_LENGTH];
 Cycle2d cycle2d[MAX_LENGTH][MAX_LENGTH];
 Cycle3d cycle3d[MAX_LENGTH][MAX_LENGTH][MAX_LENGTH];
 
