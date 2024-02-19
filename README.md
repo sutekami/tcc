@@ -1,4 +1,4 @@
-更新：2024/01/04
+更新：2024/02/19
 
 ## 📖 勉強会とは
 後期の半年間を使って、一つの課題に取り組んでもらいます！  
@@ -35,6 +35,15 @@
 そして**ゼミの最終日**に、皆さんの制作物の**デモ**をしてもらうことになると思います！
 
 <br>
+
+## 🗓️スケジュール
+<details><summary>1. ２次元TCCのサイクルを作成する</summary></details>
+<details><summary>2. 平行移動、２次元TCCのサイクルを複製する</summary></details>
+<details><summary>3. サイクルとサイクルを接続する</summary></details>
+<details><summary>4. ２次元TCCの座標を表示する</summary></details>
+<details><summary>5. ３次元TCCのサイクルを作成する、回転、３次元TCCのサイクルを複製する</summary></details>
+<details><summary>6. サイクルとサイクルを接続する</summary></details>
+<details><summary>7. ３次元TCCの座標を表示する</summary></details>
 
 ## ✏️ レポート執筆
 前年から特に変更がなければ、**レポートの執筆**もすることになっています。  
