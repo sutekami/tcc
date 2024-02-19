@@ -37,13 +37,45 @@
 <br>
 
 ## 🗓️スケジュール
-<details><summary>1. ２次元TCCのサイクルを作成する</summary></details>
-<details><summary>2. 平行移動、２次元TCCのサイクルを複製する</summary></details>
-<details><summary>3. サイクルとサイクルを接続する</summary></details>
-<details><summary>4. ２次元TCCの座標を表示する</summary></details>
-<details><summary>5. ３次元TCCのサイクルを作成する、回転、３次元TCCのサイクルを複製する</summary></details>
-<details><summary>6. サイクルとサイクルを接続する</summary></details>
-<details><summary>7. ３次元TCCの座標を表示する</summary></details>
+<details><summary>1. ２次元TCCのサイクルを作成する</summary>
+
+![1](https://github.com/sutekami/tcc/blob/master/schedules_images/1.jpg)
+</details>
+
+<details><summary>2. 平行移動、２次元TCCのサイクルを複製する</summary>
+
+![2-1](https://github.com/sutekami/tcc/blob/master/schedules_images/2-1.jpg)
+![2-2](https://github.com/sutekami/tcc/blob/master/schedules_images/2-2.jpg)
+</details>
+
+<details><summary>3. サイクルとサイクルを接続する</summary>
+
+![3-1](https://github.com/sutekami/tcc/blob/master/schedules_images/3-1.jpg)
+![3-2](https://github.com/sutekami/tcc/blob/master/schedules_images/3-2.jpg)
+</details>
+
+<details><summary>4. ２次元TCCの座標を表示する</summary>
+
+![4](https://github.com/sutekami/tcc/blob/master/schedules_images/4.jpg)
+</details>
+
+<details><summary>5. ３次元TCCのサイクルを作成する、回転、３次元TCCのサイクルを複製する</summary>
+
+![5-1](https://github.com/sutekami/tcc/blob/master/schedules_images/5-1.jpg)
+![5-2](https://github.com/sutekami/tcc/blob/master/schedules_images/5-2.jpg)
+![5-3](https://github.com/sutekami/tcc/blob/master/schedules_images/5-3.jpg)
+</details>
+
+<details><summary>6. サイクルとサイクルを接続する</summary>
+
+![6-1](https://github.com/sutekami/tcc/blob/master/schedules_images/6-1.jpg)
+![6-2](https://github.com/sutekami/tcc/blob/master/schedules_images/6-2.jpg)
+</details>
+
+<details><summary>7. ３次元TCCの座標を表示する</summary>
+
+![7](https://github.com/sutekami/tcc/blob/master/schedules_images/7.jpg)
+</details>
 
 ## ✏️ レポート執筆
 前年から特に変更がなければ、**レポートの執筆**もすることになっています。  
