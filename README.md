@@ -109,7 +109,11 @@
 初期設定では freeglut の場合のみ記載しましたが、 glewも同様に設定可能です。
 
 1. VScode2019のインストール  
-<a href="https://visualstudio.microsoft.com/ja/vs/older-downloads/" target="_blank">tekitou</a>
+[https://visualstudio.microsoft.com/ja/vs/older-downloads/](https://visualstudio.microsoft.com/ja/vs/older-downloads/)
+2. freeglut_MSVC-3.0.0-2.mp.zip のダウンロード  
+[https://www.transmissionzero.co.uk/software/freeglut-devel/](https://www.transmissionzero.co.uk/software/freeglut-devel/)
+3. glew-2.1.0-win32.zip のダウンロード  
+[https://glew.sourceforge.net/](https://glew.sourceforge.net/)
 
 ---
 自分用  
